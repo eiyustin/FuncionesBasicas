@@ -25,7 +25,7 @@ public class Listas {
      * @param Cols Columnas de las cuales se obtendrán los Datos,tienen que estar ordenadas de Menor a Mayor
      * @return ArrayList con un arreglo de String
      */
-    public static ArrayList<String[]> ALLista(ResultSet Rs, int []Cols){
+    public static ArrayList<String[]> LOLista(ResultSet Rs, int []Cols){
         
         
         
